@@ -1,1 +1,1 @@
-# coursera_ml_coursera
+# coursera_ml_ds
